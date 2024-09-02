@@ -1,0 +1,4 @@
+2024/09/02 15:14:41 open config.json: The system cannot find the file specified.
+2024/09/02 15:28:50 Hola soy un log
+2024/09/02 15:28:50 Configuración cargada: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:28:50 Mensaje, Hola soy un cliente

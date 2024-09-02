@@ -45,7 +45,6 @@ func LeerConsola() {
 func GenerarYEnviarPaquete() {
 	paquete := Paquete{}
 	// Leemos y cargamos el paquete
-
 	log.Printf("paqute a enviar: %+v", paquete)
 	// Enviamos el paqute
 }
